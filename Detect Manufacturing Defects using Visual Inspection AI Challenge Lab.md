@@ -1,6 +1,6 @@
-# Detect Manufacturing Defects using Visual Inspection AI: Challenge Lab || [GSP366](https://www.cloudskillsboost.google/focuses/34184?parent=catalog) ||
+# Detect Manufacturing Defects using Visual Inspection AI: Challenge Lab 
 
-## Solution [here](https://youtu.be/Om88d86qFXs)
+## Solution 
 
 ### Run the following Commands in CloudShell
 
@@ -17,10 +17,9 @@ sudo chmod +x gsp366.sh
 ./gsp366.sh
 ```
 
-### Congratulations 🎉 for completing the Lab !
+### Congratulations 🎉 
 
-##### *You Have Successfully Demonstrated Your Skills And Determination.*
-
+### You have successfully completed the lab on Detect Manufacturing Defects using Visual Inspection AI Challenge Lab
 #### *Well done!*
 
 #### Don't Forget to Join the [Telegram Channel](https://t.me/quickgcplab) & [Discussion group](https://t.me/quickgcplabchats)
