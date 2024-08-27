@@ -20,8 +20,3 @@ sudo chmod +x gsp366.sh
 ### Congratulations 🎉 
 
 ### You have successfully completed the lab on Detect Manufacturing Defects using Visual Inspection AI Challenge Lab
-#### *Well done!*
-
-#### Don't Forget to Join the [Telegram Channel](https://t.me/quickgcplab) & [Discussion group](https://t.me/quickgcplabchats)
-
-# [QUICK GCP LAB](https://www.youtube.com/@quickgcplab)
